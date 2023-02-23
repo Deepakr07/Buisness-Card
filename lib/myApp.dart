@@ -41,7 +41,7 @@ class myApp extends StatelessWidget {
                   color: Colors.teal.shade200),
             ),
             Container(
-              height: 50,
+              height: 51,
               decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(5), color: Colors.white),
               margin: EdgeInsets.symmetric(horizontal: 20, vertical: 20),
@@ -65,7 +65,7 @@ class myApp extends StatelessWidget {
               ),
             ),
             Container(
-              height: 50,
+              height: 51,
               decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(5), color: Colors.white),
               margin: EdgeInsets.symmetric(horizontal: 20, vertical: 20),
